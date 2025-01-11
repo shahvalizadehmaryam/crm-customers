@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  margin: 20px 0 40px;
+}
+
+.main {
+  min-height: 85vh;
+}
+
+.footer {
+  background-color: #262836;
+  text-align: center;
+  color: white;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
+
+.footer a {
+  color: #57aac8;
+}
+
+.header a {
+  border: 1px solid #8af1aa;
+  background-color: #8af1aa;
+  color: #262836;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
